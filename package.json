@@ -1,0 +1,56 @@
+{
+  "name": "vue-awesome-mui",
+  "version": "1.7.4",
+  "description": "A high-performance front end framework that is closest to native experience & design ui for vue2",
+  "main": "mui/dist/js/mui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-awesome-mui",
+    "vue awesome mui",
+    "awesome-mui",
+    "vue mui",
+    "mui",
+    "vue-mui",
+    "ui"
+  ],
+  "author": "Wscats <kalone.cool@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "html-loader": "^0.4.5",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "vue": "^2.4.1",
+    "vue-awesome-mui": "^1.7.2",
+    "vue-awesome-swiper": "^2.5.4",
+    "vue-loader": "^12.2.2",
+    "vue-resource": "^1.3.4",
+    "vue-router": "^2.7.0",
+    "vue-template-compiler": "^2.4.1",
+    "vuex": "^2.3.1",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 5 versions",
+    "ios >= 7",
+    "android > 4.4",
+    "not ie <= 8"
+  ]
+}
